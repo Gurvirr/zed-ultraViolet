@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Gurvir Randhawa <gurvirrandhawa28@gmail.com>"]
 description = "A theme for Zed."
-repository = "https://github.com/Gurvirr/ultraViolet"
+repository = "https://github.com/Gurvirr/zed-ultraViolet"
