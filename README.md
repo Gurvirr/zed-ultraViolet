@@ -7,8 +7,8 @@ A comprehensive dark-mode theme with a refined violet aesthetic, designed for re
 </h4>
 
 ## Preview
-<img width="3802" height="2376" alt="ultraViolet_demo_1" src="https://github.com/user-attachments/assets/d830ffdd-d688-4cd5-8c72-9360db62c327" />
-<img width="3802" height="2376" alt="ultraViolet_demo_2" src="https://github.com/user-attachments/assets/269392ac-05d2-49cd-b921-07e919aa4980" />
+<img width="3802" height="2376" alt="ultraViolet_demo_2" src="https://github.com/user-attachments/assets/761dc40b-2d02-4b8e-8df1-874074893495" />
+<img width="3802" height="2376" alt="ultraViolet_demo_1" src="https://github.com/user-attachments/assets/2ca7058d-de81-484d-9456-da6ffeee4091" />
 
 ## Usage
 1. Open Zed
