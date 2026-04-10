@@ -1,6 +1,6 @@
-id = "ultraviolet"
+id = "ultraviolet-theme"
 name = "ultraViolet"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Gurvir Randhawa <gurvirrandhawa28@gmail.com>"]
 description = "A theme for Zed."
