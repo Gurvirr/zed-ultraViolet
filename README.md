@@ -19,3 +19,6 @@
 
 ## Link:
 https://zed.dev/extensions/ultraviolet-theme
+
+## License
+This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for more details.
