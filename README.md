@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  A dark, violet-toned theme designed for quality & visual comfort
+  A dark, violet-toned theme designed for quality & visual comfort ◡̈
 </h4>
 
 ## Preview
@@ -17,8 +17,16 @@
 4. Select '**ultraViolet**' in the theme selector ( <kbd>Ctrl</kbd>+<kbd>K</kbd>+<kbd>T</kbd> )
 5. Enjoy!
 
-## Link:
+## Link
 https://zed.dev/extensions/ultraviolet-theme
+
+## Roadmap
+Below is the current list of planned features and community-requested fixes. If you have a feature request or bug to report, open an issue [here](https://github.com/Gurvirr/zed-ultraViolet/issues):
+- [ ] ultraViolet Blur
+- [ ] Better project panel (.gitignore)
+- [ ] Better markdown syntax (bold)
+- [ ] ultraViolet Light
+- [ ] ultraViolet for VS Code
 
 ## License
 This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for more details.
