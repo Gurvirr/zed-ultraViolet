@@ -45,20 +45,20 @@
         "border.transparent": "#00000000",
 
         "text": "#F2F4F8",
-        "text.muted": "#9AA1AB",
-        "text.placeholder": "#9AA1AB",
+        "text.muted": "#A09AAB",
+        "text.placeholder": "#A09AAB",
         "text.disabled": "#8A9098",
         "text.accent": "#C58FFF",
         "icon": "#F2F4F8",
-        "icon.muted": "#9AA1AB",
-        "icon.placeholder": "#9AA1AB",
+        "icon.muted": "#A09AAB",
+        "icon.placeholder": "#A09AAB",
         "icon.disabled": "#8A9098",
         "icon.accent": "#C58FFF",
 
         "editor.background": "#111115",
         "editor.foreground": "#F2F4F8",
         "editor.gutter.background": "#111115",
-        "editor.line_number": "#9AA1AB",
+        "editor.line_number": "#A09AAB",
         "editor.active_line_number": "#F2F4F8",
         "editor.active_line.background": "#1B1B1F",
         "editor.highlighted_line.background": "#222226",
@@ -109,11 +109,11 @@
         "conflict.background": "#261824",
         "conflict.border": "#E297DB",
 
-        "ignored": "#9AA1AB",
+        "ignored": "#625C66",
         "ignored.background": "#1A1A1A",
         "ignored.border": "#2E2E2E",
 
-        "hidden": "#9AA1AB",
+        "hidden": "#A09AAB",
         "hidden.background": "#1A1A1A",
         "hidden.border": "#2E2E2E",
 
@@ -141,14 +141,14 @@
         "error.background": "#26141A",
         "error.border": "#FF6FAE",
 
-        "unreachable": "#9AA1AB",
+        "unreachable": "#A09AAB",
         "unreachable.background": "#1F1F1F",
         "unreachable.border": "#3A3A3A",
 
         "terminal.background": "#0B0C10",
         "terminal.foreground": "#DCD8ED",
         "terminal.bright_foreground": "#FFFFFF",
-        "terminal.dim_foreground": "#9AA1AB",
+        "terminal.dim_foreground": "#A09AAB",
 
         "terminal.ansi.background": "#0B0C10",
         "terminal.ansi.black": "#282828",
@@ -182,7 +182,7 @@
           "attribute": { "color": "#E297DB" },
           "boolean": { "color": "#FF6FAE" },
           "bracket": { "color": "#DFDFE0" },
-          "comment": { "color": "#9AA1AB", "font_style": "italic" },
+          "comment": { "color": "#A09AAB", "font_style": "italic" },
           "constant": { "color": "#FF6FAE" },
           "conditional": { "color": "#6F78FF" },
           "emphasis": { "font_style": "italic" },
@@ -215,4 +215,3 @@
     }
   ]
 }
-
