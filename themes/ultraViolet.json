@@ -109,9 +109,9 @@
         "conflict.background": "#261824",
         "conflict.border": "#E297DB",
 
-        "ignored": "#625C66",
-        "ignored.background": "#1A1A1A",
-        "ignored.border": "#2E2E2E",
+        "ignored": "#6B6576",
+        "ignored.background": "#0B0C10",
+        "ignored.border": "#222226",
 
         "hidden": "#A09AAB",
         "hidden.background": "#1A1A1A",
