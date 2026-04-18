@@ -22,11 +22,15 @@ https://zed.dev/extensions/ultraviolet-theme
 
 ## Roadmap
 Below is the current list of planned features and community-requested fixes. If you have a feature request or bug to report, open an issue [here](https://github.com/Gurvirr/zed-ultraViolet/issues):
-- [ ] ultraViolet Blur
-- [ ] Better project panel (.gitignore)
-- [ ] Better markdown syntax (bold)
+
+**In testing:**
+- [ ] [ultraViolet Blur](https://github.com/Gurvirr/zed-ultraViolet/issues/1#issuecomment-4274246531)
+- [ ] [Better project panel (.gitignore)](https://github.com/Gurvirr/zed-ultraViolet/issues/3)
+- [ ] [Better markdown syntax (bold)](https://github.com/Gurvirr/zed-ultraViolet/issues/2)
+
+**In planning:**
 - [ ] ultraViolet Light
-- [ ] ultraViolet for VS Code
+- [ ] [ultraViolet for VS Code](https://github.com/Gurvirr/zed-ultraViolet/issues/4)
 
 ## License
 This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for more details.
