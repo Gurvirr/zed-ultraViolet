@@ -1,0 +1,41 @@
+{
+  "name": "ultraviolet-theme",
+  "displayName": "ultraViolet Theme",
+  "description": "A deep violet dark theme for VS Code, ported from Zed by Gurvir Randhawa (MIT).",
+  "version": "1.0.0",
+  "publisher": "gurvir",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gurvirr/zed-ultraViolet"
+  },
+  "homepage": "https://github.com/Gurvirr/zed-ultraViolet",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "violet",
+    "purple",
+    "ultraviolet",
+    "zed"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ultraViolet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ultraViolet-color-theme.json"
+      },
+      {
+        "label": "ultraViolet Blur",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ultraViolet-blur-color-theme.json"
+      }
+    ]
+  }
+}
