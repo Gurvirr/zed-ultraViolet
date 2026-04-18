@@ -10,9 +10,11 @@ A faithful port of the [ultraViolet Zed theme](https://zed.dev/extensions/ultrav
 ## Install
 
 ### Via VS Code Marketplace
+
 Search for **ultraViolet Theme** in the Extensions panel (`Ctrl+Shift+X`).
 
 ### Manual
+
 1. Copy the `vscode/` folder from this repo
 2. Place it in your extensions directory:
    - Windows: `%USERPROFILE%\.vscode\extensions\ultraviolet-theme`
@@ -21,16 +23,16 @@ Search for **ultraViolet Theme** in the Extensions panel (`Ctrl+Shift+X`).
 
 ## Color palette
 
-| Role | Color |
-|---|---|
-| Accent / keyword | `#6F78FF` |
-| Type / tag | `#C58FFF` |
-| Function | `#AF9CFF` |
-| String | `#08BDBA` |
-| Number | `#08BD8A` |
+| Role               | Color     |
+| ------------------ | --------- |
+| Accent / keyword   | `#6F78FF` |
+| Type / tag         | `#C58FFF` |
+| Function           | `#AF9CFF` |
+| String             | `#08BDBA` |
+| Number             | `#08BD8A` |
 | Boolean / constant | `#FF6FAE` |
-| Error | `#FF6FAE` |
-| Warning | `#E297DB` |
-| Comment | `#A09AAB` |
-| Editor bg | `#111115` |
-| App bg | `#0B0C10` |
+| Error              | `#FF6FAE` |
+| Warning            | `#E297DB` |
+| Comment            | `#A09AAB` |
+| Editor bg          | `#111115` |
+| App bg             | `#0B0C10` |
