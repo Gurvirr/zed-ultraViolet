@@ -3,5 +3,5 @@ name = "ultraViolet"
 version = "0.1.1"
 schema_version = 1
 authors = ["Gurvir Randhawa <gurvirrandhawa28@gmail.com>"]
-description = "A theme for Zed."
+description = "A dark, violet-toned theme designed for quality & visual comfort"
 repository = "https://github.com/Gurvirr/zed-ultraViolet"
