@@ -1,6 +1,6 @@
 id = "ultraviolet-theme"
 name = "ultraViolet"
-version = "0.1.1"
+version = "0.2.0"
 schema_version = 1
 authors = ["Gurvir Randhawa <gurvirrandhawa28@gmail.com>"]
 description = "A dark, violet-toned theme designed for quality & visual comfort"
