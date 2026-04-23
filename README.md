@@ -8,14 +8,14 @@
 
 ## Preview
 <h4 align="center">
-  Solid:
+  ultraViolet:
 </h4>
 
 ![ultraViolet_demo_1](https://github.com/user-attachments/assets/0156d3cb-553e-4a88-bbaa-9ea4b0406238)
 ![ultraViolet_demo_2](https://github.com/user-attachments/assets/f7e264dc-0a0e-4c60-a26d-d218da87ae10)
 
 <h4 align="center">
-  Blurred:
+  ultraViolet Blur (Bordered & Borderless):
 </h4>
 
 ![ultraViolet_demo_3](https://github.com/user-attachments/assets/3a0aa860-8878-4f1f-86c9-3ba7c9207ca3)
