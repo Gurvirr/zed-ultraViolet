@@ -7,8 +7,19 @@
 </h4>
 
 ## Preview
-![ultraViolet_demo_2](https://github.com/user-attachments/assets/761dc40b-2d02-4b8e-8df1-874074893495)
-![ultraViolet_demo_1](https://github.com/user-attachments/assets/2ca7058d-de81-484d-9456-da6ffeee4091)
+<h4 align="center">
+  Solid:
+</h4>
+
+![ultraViolet_demo_1](https://github.com/user-attachments/assets/0156d3cb-553e-4a88-bbaa-9ea4b0406238)
+![ultraViolet_demo_2](https://github.com/user-attachments/assets/f7e264dc-0a0e-4c60-a26d-d218da87ae10)
+
+<h4 align="center">
+  Blurred:
+</h4>
+
+![ultraViolet_demo_3](https://github.com/user-attachments/assets/3a0aa860-8878-4f1f-86c9-3ba7c9207ca3)
+![ultraViolet_demo_4](https://github.com/user-attachments/assets/52ca8e46-e7dd-4459-aecd-df24ee7b8177)
 
 ## Usage
 1. Open **Zed**
@@ -23,10 +34,10 @@ https://zed.dev/extensions/ultraviolet-theme
 ## Roadmap
 Below is the current list of planned features and community-requested fixes. If you have a feature request or bug to report, open an issue [here](https://github.com/Gurvirr/zed-ultraViolet/issues):
 
-**In testing:**
-- [ ] [ultraViolet Blur](https://github.com/Gurvirr/zed-ultraViolet/issues/1#issuecomment-4274246531)
-- [ ] [Better project panel (.gitignore)](https://github.com/Gurvirr/zed-ultraViolet/issues/3)
-- [ ] [Better markdown syntax (bold)](https://github.com/Gurvirr/zed-ultraViolet/issues/2)
+**In approval ([PR is up](https://github.com/zed-industries/extensions/pull/5707)):**
+- [x] [ultraViolet Blur](https://github.com/Gurvirr/zed-ultraViolet/issues/1#issuecomment-4274246531)
+- [x] [Better project panel (.gitignore)](https://github.com/Gurvirr/zed-ultraViolet/issues/3)
+- [x] [Better markdown syntax (bold)](https://github.com/Gurvirr/zed-ultraViolet/issues/2)
 
 **In planning:**
 - [ ] ultraViolet Light
