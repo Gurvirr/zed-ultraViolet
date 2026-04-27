@@ -34,7 +34,7 @@ https://zed.dev/extensions/ultraviolet-theme
 ## Roadmap
 Below is the current list of planned features and community-requested fixes. If you have a feature request or bug to report, open an issue [here](https://github.com/Gurvirr/zed-ultraViolet/issues):
 
-**In approval ([PR is up](https://github.com/zed-industries/extensions/pull/5707)):**
+**Released:**
 - [x] [ultraViolet Blur](https://github.com/Gurvirr/zed-ultraViolet/issues/1#issuecomment-4274246531)
 - [x] [Better project panel (.gitignore)](https://github.com/Gurvirr/zed-ultraViolet/issues/3)
 - [x] [Better markdown syntax (bold)](https://github.com/Gurvirr/zed-ultraViolet/issues/2)
