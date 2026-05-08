@@ -39,8 +39,10 @@ Below is the current list of planned features and community-requested fixes. If 
 - [x] [Better project panel (.gitignore)](https://github.com/Gurvirr/zed-ultraViolet/issues/3)
 - [x] [Better markdown syntax (bold)](https://github.com/Gurvirr/zed-ultraViolet/issues/2)
 
-**In planning:**
+**In progress:**
 - [ ] ultraViolet Light
+
+**In planning:**
 - [ ] [ultraViolet for VS Code](https://github.com/Gurvirr/zed-ultraViolet/issues/4)
 
 ## License
